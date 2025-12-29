@@ -1,4 +1,4 @@
-# # Walmart Sales Data Loader Project
+# # RETAIL DATA ANALYTICS AND MANAGEMENT Project
 
 This project demonstrates how to load Walmart sales data into a MySQL database using Python. It uses environment variables for secure database credentials and supports loading both raw and cleaned CSV data.
 
