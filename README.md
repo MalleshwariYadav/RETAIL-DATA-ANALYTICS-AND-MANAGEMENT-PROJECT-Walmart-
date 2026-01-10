@@ -15,7 +15,7 @@ walmart_project/
 
 ├── test_config.py      # Test DB connection
 
-├── walmart.csv      # Raw Walmart sales data (not tracked in Git)
+├── Walmart.csv      # Raw Walmart sales data (not tracked in Git)
 
 ├── walmart_clean_data.csv   # Cleaned Walmart sales data (not tracked in Git)
 
@@ -23,7 +23,7 @@ walmart_project/
 
 ├── .gitignore   # Specifies files/folders to ignore
 
-├── my_env1/   # Python virtual environment (ignored in Git)
+├── myvenv/   # Python virtual environment (ignored in Git)
 
 └── README.md   # Project documentation
 
@@ -38,7 +38,7 @@ walmart_project/
 2. **Create and activate virtual environment**
    ```bash
    python -m venv my_env1
-   my_env1\Scripts\activate      # Windows
+   myvenv\Scripts\activate      # Windows
    source my_env1/bin/activate   # Linux/Mac
    ```
 3. **Install dependencies**
