@@ -1,3 +1,0 @@
-from config import DB_USER, DB_PASSWORD, DB_HOST, DB_NAME
-
-print(DB_USER, DB_PASSWORD, DB_HOST, DB_NAME)
