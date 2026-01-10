@@ -82,7 +82,7 @@ WHERE Date = '2012-01-06';
 ```
 
 ## Notes
-   - Do not commit .env, my_env1/, or large data files to GitHub. They are included in .gitignore.
+   - Do not commit .env, myvenv/, or large data files to GitHub. They are included in .gitignore.
    - If your MySQL password contains special characters (like @), use urllib.parse.quote_plus() in config.py to encode it.
    - This setup works for both raw and cleaned CSV data. Change the file path in load_data.py accordingly.
 
